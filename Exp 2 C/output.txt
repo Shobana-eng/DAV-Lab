@@ -1,0 +1,12 @@
+Product      Price   Quantity
+0 Laptop      1000      5
+1 Smartphone   800      8
+2 Tablet       500     10
+3 Headphones   100     15
+
+Country      Region
+0 Algeria     AFRICA
+1 Angola      AFRICA
+2 Benin       AFRICA
+3 Botswana    AFRICA
+4 Burkina     AFRICA

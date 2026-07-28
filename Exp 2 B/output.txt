@@ -1,0 +1,8 @@
+First 5 rows:
+
+App                                      Category          Rating
+0 Photo Editor & Candy Camera...         ART_AND_DESIGN    4.1
+1 Coloring book moana                    ART_AND_DESIGN    3.9
+2 U Launcher Lite...                     ART_AND_DESIGN    4.7
+3 Sketch - Draw & Paint                  ART_AND_DESIGN    4.5
+4 Pixel Draw...                          ART_AND_DESIGN    4.3
