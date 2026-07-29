@@ -1,0 +1,10 @@
+Comparison of Univariate Analysis Results:
+
+UCI Diabetes Dataset Statistics:
+[100 rows x 8 columns]
+
+Pima Indians Diabetes Dataset Statistics:
+[100 rows x 8 columns]
+
+Linear Regression R2 Scores: UCI - 0.78, Pima - 0.72
+Logistic Regression Accuracy: UCI - 82.4%, Pima - 79.1%

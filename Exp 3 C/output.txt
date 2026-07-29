@@ -1,0 +1,3 @@
+UCI Diabetes Dataset - Multiple Regression R2 Score: -0.0028
+
+Pima Indians Diabetes Dataset - Multiple Regression R2 Score: -0.0904
